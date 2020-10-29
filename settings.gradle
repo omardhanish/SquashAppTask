@@ -1,0 +1,2 @@
+rootProject.name='SquashAppTask'
+include ':app'
